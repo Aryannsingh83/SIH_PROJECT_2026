@@ -167,8 +167,4 @@ npm run test:e2e
 | **Quality Inspector** | /inspector | Assay physical moisture, classify Agmarknet grade, approve or record rejection rationale. |
 | **Administrator** | /admin | Monitor state-wide procurement quotas, resolve bottlenecks, and manage mandi capacity. |
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+---.
