@@ -6,7 +6,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Prisma ORM](https://img.shields.io/badge/Prisma-5.18-2D3748.svg?style=flat-square&logo=prisma)](https://www.prisma.io/)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-4.7-010101.svg?style=flat-square&logo=socket.io)](https://socket.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ---
 
